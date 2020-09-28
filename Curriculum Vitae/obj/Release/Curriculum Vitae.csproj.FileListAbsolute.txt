@@ -1,0 +1,82 @@
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Curriculum Vitae.dll.config
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Curriculum Vitae.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Curriculum Vitae.pdb
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\csc.exe
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\csc.exe.config
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\csc.rsp
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\csi.exe
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\csi.exe.config
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\csi.rsp
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.AppContext.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Collections.Immutable.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Console.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.IO.Compression.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.IO.Pipes.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Reflection.Metadata.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Security.AccessControl.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Security.Claims.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Security.Principal.Windows.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.ValueTuple.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Xml.XPath.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\vbc.exe
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\vbc.exe.config
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\vbc.rsp
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe.config
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Antlr3.Runtime.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Microsoft.Web.Infrastructure.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Newtonsoft.Json.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Helpers.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Mvc.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Optimization.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Razor.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.WebPages.Deployment.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.WebPages.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.WebPages.Razor.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\WebGrease.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Helpers.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Mvc.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Optimization.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.Razor.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.WebPages.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.WebPages.Deployment.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\System.Web.WebPages.Razor.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Newtonsoft.Json.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Antlr3.Runtime.pdb
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\es\System.Web.Helpers.resources.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\es\System.Web.Mvc.resources.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\es\System.Web.Optimization.resources.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\es\System.Web.Razor.resources.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\es\System.Web.WebPages.resources.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\Curriculum Vitae.csproj.CoreCompileInputs.cache
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\Curriculum Vitae.csproj.CopyComplete
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\Curriculum Vitae.dll
+E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\Curriculum Vitae.pdb
