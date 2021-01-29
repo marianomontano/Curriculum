@@ -11,9 +11,9 @@ namespace Curriculum_Vitae.Services
     {
         public static void SendEmail(string emailOrigen, string asunto, string mensaje)
         {
-            MailAddress mailFrom = new MailAddress("marianomontanocurriculum@gmail.com", emailOrigen);
+            MailAddress mailFrom = new MailAddress(ConfigurationManager.AppSettings["username"], emailOrigen);
             MailMessage mail = new MailMessage();
-            mail.To.Add("montano.mariano@gmail.com");
+            mail.To.Add(ConfigurationManager.AppSettings["personalEmail"]);
             mail.From = mailFrom;
             mail.Subject = asunto;
             mail.Body = mensaje;
@@ -25,7 +25,7 @@ namespace Curriculum_Vitae.Services
                 Port = 587,
                 EnableSsl = true,
                 DeliveryMethod = SmtpDeliveryMethod.Network,
-                Credentials = new NetworkCredential("marianomontanocurriculum@gmail.com", "MarianoCV2020"),
+                Credentials = new NetworkCredential(ConfigurationManager.AppSettings["username"], ConfigurationManager.AppSettings["password"]),
                 Timeout = 20000
             };
 
