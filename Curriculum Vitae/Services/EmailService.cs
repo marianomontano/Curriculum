@@ -17,8 +17,8 @@ namespace Curriculum_Vitae.Services
 
         private EmailService()
         {
-            userName = ConfigurationManager.AppSettings["username"];
-            mailTo = ConfigurationManager.AppSettings["personalEmail"];
+            userName = ConfigurationManager.AppSettings["userName"];
+            mailTo = ConfigurationManager.AppSettings["mailTo"];
             password = ConfigurationManager.AppSettings["password"];
         }
 
@@ -45,7 +45,7 @@ namespace Curriculum_Vitae.Services
 
             SmtpClient smtp = new SmtpClient()
             {
-                Host = "smtp.gmail.com",
+                Host = "smtp.outlook.com",
                 Port = 587,
                 EnableSsl = true,
                 DeliveryMethod = SmtpDeliveryMethod.Network,

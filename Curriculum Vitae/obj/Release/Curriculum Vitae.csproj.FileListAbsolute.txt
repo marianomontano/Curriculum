@@ -163,3 +163,7 @@ C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\e
 C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.WebPages.Razor.resources.dll
 C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\obj\Release\Curriculum Vitae.csproj.CopyComplete
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml

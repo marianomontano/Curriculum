@@ -16,7 +16,7 @@ namespace Curriculum_Vitae.Services
                 Grupo = "Lenguajes de Programación",
                 Habilidades = new List<string>()
                 {
-                    "C#", "ASP .NET MVC", "SQL", "C Básico", "Java Básico", "HTML y CSS Básico"
+                    "C#", "ASP .NET MVC", "SQL", "C Básico", "Java Básico", "HTML y CSS Básico", "JavaScript Intermedio"
                 }
             });
             lista.Add(new SkillsModel

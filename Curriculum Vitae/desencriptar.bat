@@ -1,0 +1,1 @@
+.\aspnet_regiis.exe -pdf "appSettings" "C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae"
