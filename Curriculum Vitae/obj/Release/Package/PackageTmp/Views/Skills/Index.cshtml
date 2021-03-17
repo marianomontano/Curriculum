@@ -1,29 +1,31 @@
 ﻿@model IEnumerable<Curriculum_Vitae.Models.SkillsModel>
 
-<div class="h2">Habilidades</div>
-<br />
+<div>
+    <div class="h2">Habilidades</div>
+    <br />
 
-@foreach (var item in Model)
-{
-    <div class="list-group">
-        <ul>
-            <li class="list-group-item">
-                <div class="h4">
-                    @Html.DisplayFor(model => item.Grupo)
-                </div>
+    @foreach (var item in Model)
+    {
+        <div class="list-group">
+            <ul>
+                <li class="list-group-item">
+                    <div class="h4">
+                        @Html.DisplayFor(model => item.Grupo)
+                    </div>
 
-                @foreach(var skill in item.Habilidades)
-                {
-                <ul>
-                    <li>
-                        @Html.DisplayFor(model => skill)
-                    </li>
-                </ul>
-                }
-            </li>
-        </ul>
-    </div>
-}
+                    @foreach (var skill in item.Habilidades)
+                    {
+                        <ul>
+                            <li>
+                                @Html.DisplayFor(model => skill)
+                            </li>
+                        </ul>
+                    }
+                </li>
+            </ul>
+        </div>
+    }
+</div>
 
 @*
 

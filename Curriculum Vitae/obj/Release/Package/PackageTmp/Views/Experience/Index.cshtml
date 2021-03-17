@@ -1,77 +1,81 @@
 ﻿@model IEnumerable<Curriculum_Vitae.Models.ExperienceModel>
 
+
 <div class="h2">Experiencias Laborales</div>
 <br />
 
-@foreach(var item in Model)
+@foreach (var item in Model)
 {
-<div class="list-group">
-    <ul>
-        <li class="list-group-item">
-            <div class="h4">
-                @Html.DisplayFor(model => item.Emplador)
-            </div>
+    <div class="list-group">
+        <ul>
+            <li class="list-group-item">
+                <div class="h4">
+                    @Html.DisplayFor(model => item.Emplador)
+                </div>
 
-            @Html.DisplayNameFor(model => model.Puesto): 
-            @Html.DisplayFor(model => item.Puesto)<br />
+                @Html.DisplayNameFor(model => model.Puesto):
+                @Html.DisplayFor(model => item.Puesto)<br />
 
-            @Html.DisplayNameFor(model => model.FechaInicio):
-            @Html.DisplayFor(model => item.FechaInicio)<br />
+                @Html.DisplayNameFor(model => model.FechaInicio):
+                @Html.DisplayFor(model => item.FechaInicio)<br />
 
-            @Html.DisplayNameFor(model => model.FechaFin): 
-            @Html.DisplayFor(model => item.FechaFin)<br />
+                @Html.DisplayNameFor(model => model.FechaFin):
+                @Html.DisplayFor(model => item.FechaFin)<br />
 
-            @Html.DisplayNameFor(model => model.Tareas): 
-            @foreach(var tarea in item.Tareas)
-            {
-                <ul>
-                    <li>@Html.DisplayFor(model => tarea)</li>
-                </ul>
-            }
-        </li>
-    </ul>
-</div>
+                @Html.DisplayNameFor(model => model.Tareas):
+                @foreach (var tarea in item.Tareas)
+                {
+                    <ul>
+                        <li>@Html.DisplayFor(model => tarea)</li>
+                    </ul>
+                }
+            </li>
+        </ul>
+    </div>
 }
+
+
+
 
 @*
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.Emplador)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Puesto)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.FechaInicio)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.FechaFin)
-        </th>
-        <th></th>
-    </tr>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Emplador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Puesto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaFin)
+            </th>
+            <th></th>
+        </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Emplador)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Puesto)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.FechaInicio)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.FechaFin)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Emplador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Puesto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaInicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaFin)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
 
-</table>
+    </table>
 *@

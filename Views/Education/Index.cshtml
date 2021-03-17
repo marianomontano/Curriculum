@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Curriculum_Vitae.Models.EducationModel>
+
+<div class="h2">Educación</div>
+<br />
+
+@foreach (var item in Model)
+{
+    <div class="list-group">
+        <ul>
+            <li class="list-group-item">
+                <div class="h4">
+                    @Html.DisplayFor(model => item.Institucion)
+                </div>
+
+                @Html.DisplayNameFor(model => model.Descripcion):
+                @Html.DisplayFor(model => item.Descripcion)<br />
+
+                @Html.DisplayNameFor(model => model.FechaInicio):
+                @Html.DisplayFor(model => item.FechaInicio)<br />
+
+                @Html.DisplayNameFor(model => model.FechaFin):
+                @Html.DisplayFor(model => item.FechaFin)<br />
+
+                @Html.DisplayNameFor(model => model.Estado):
+                @Html.DisplayFor(model => item.Estado)<br />
+            </li>
+        </ul>
+    </div>
+}
+
+@*
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Institucion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaFin)
+            </th>
+            <th></th>
+        </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Institucion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaInicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaFin)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+    </table>
+*@

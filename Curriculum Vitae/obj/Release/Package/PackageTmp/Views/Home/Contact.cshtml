@@ -9,15 +9,15 @@
     Boulogne, San Isidro<br />
     <strong>E-Mail Personal: </strong><a href="mailto:montano.mariano@gmail.com">montano.mariano@gmail.com</a>
     <br />
-    <strong><abbr title="Teléfono">Tel:</abbr></strong>
-    1162204305
+    <strong>Tel: </strong> <a href="tel:+5491162204305">1162204305</a>
+
     <br />
 
     @using (Html.BeginForm())
     {
         @Html.AntiForgeryToken()
 
-        <div class="form-horizontal">
+        <div class="form-horizontal" style="margin-left:15px">
             <hr />
             <div class="form-group">
                 <label>Su E-Mail: </label>
@@ -28,7 +28,7 @@
                 <input class="form-control" type="text" name="subject" value="" />
             </div>
 
-            <div class="form-group"> 
+            <div class="form-group">
                 <label>Mensaje: </label>
                 <textarea class="form-control" name="body" rows="10"></textarea>
             </div>
@@ -42,6 +42,6 @@
     }
 
     <a href="web.whatsapp.com/send?phone=5491162204305">
-        <img src="~/Content/logo-whatsapp.png" width="100" height="100" />
+        <img src="~/Content/logo-whatsapp.jpg" height="30px" />
     </a>
 </address>
