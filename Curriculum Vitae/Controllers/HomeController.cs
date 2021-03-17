@@ -33,7 +33,7 @@ namespace Curriculum_Vitae.Controllers
         {
             if (ModelState.IsValid)
             {
-                EmailService.SendEmail(from, subject, body);
+                EmailService.Instance.SendEmail(from, subject, body);
                 return RedirectToAction("Index", "Home");
             }
             return View();

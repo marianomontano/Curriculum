@@ -4,16 +4,40 @@ using System.Linq;
 using System.Web;
 using System.Net.Mail;
 using System.Net;
+using System.Configuration;
 
 namespace Curriculum_Vitae.Services
 {
-    public static class EmailService
+    public class EmailService
     {
-        public static void SendEmail(string emailOrigen, string asunto, string mensaje)
+        private static EmailService emailService = null;
+        private string mailTo;
+        private string userName;
+        private string password;
+
+        private EmailService()
         {
-            MailAddress mailFrom = new MailAddress(ConfigurationManager.AppSettings["username"], emailOrigen);
+            userName = ConfigurationManager.AppSettings["username"];
+            mailTo = ConfigurationManager.AppSettings["personalEmail"];
+            password = ConfigurationManager.AppSettings["password"];
+        }
+
+        public static EmailService Instance
+        {
+            get
+            {
+                if (emailService == null)
+                    emailService = new EmailService();
+                return emailService;
+            }
+        }
+
+        public void SendEmail(string emailOrigen, string asunto, string mensaje)
+        {
+
+            MailAddress mailFrom = new MailAddress(userName, emailOrigen);
             MailMessage mail = new MailMessage();
-            mail.To.Add(ConfigurationManager.AppSettings["personalEmail"]);
+            mail.To.Add(mailTo);
             mail.From = mailFrom;
             mail.Subject = asunto;
             mail.Body = mensaje;
@@ -25,7 +49,7 @@ namespace Curriculum_Vitae.Services
                 Port = 587,
                 EnableSsl = true,
                 DeliveryMethod = SmtpDeliveryMethod.Network,
-                Credentials = new NetworkCredential(ConfigurationManager.AppSettings["username"], ConfigurationManager.AppSettings["password"]),
+                Credentials = new NetworkCredential(userName, password),
                 Timeout = 20000
             };
 

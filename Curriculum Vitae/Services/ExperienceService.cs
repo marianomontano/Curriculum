@@ -13,17 +13,31 @@ namespace Curriculum_Vitae.Services
             List<ExperienceModel> lista = new List<ExperienceModel>();
             lista.Add(new ExperienceModel
             {
+                Emplador = "Accusys Tecnology",
+                Puesto = "Analista Programador .NET Jr",
+                FechaInicio = new DateTime(2021, 01, 25),
+                FechaFin = DateTime.Today,
+                Tareas = new List<string>()
+                {
+                    "Desarrollo de software de escritorio en C# y VB6",
+                    "Desarrollo de software web en ASP .NET web form y MVC5",
+                    "Desarrollo en base de datos SQL con MS SQL Server",
+                    "Stored Procedures"
+                }
+            }) ;
+
+            lista.Add(new ExperienceModel
+            {
                 Emplador = "GPS Mundo - Garmin Store",
                 Puesto = "Departamento Comercial",
                 FechaInicio = new DateTime(2017, 11, 01),
-                FechaFin = DateTime.Today,
+                FechaFin = new DateTime(2021, 01, 24),
                 Tareas = new List<string>() {
                     "Ventas",
                     "Atención al cliente",
                     "Caja",
                     "Asistencia en sistema"
                 }
-
             });
             lista.Add(new ExperienceModel
             {
@@ -37,7 +51,6 @@ namespace Curriculum_Vitae.Services
                     "Team Leader Tienda Oficial MercadoLibre",
                     "Team Leader E-Commerce"
                 }
-
             });
 
             return lista;

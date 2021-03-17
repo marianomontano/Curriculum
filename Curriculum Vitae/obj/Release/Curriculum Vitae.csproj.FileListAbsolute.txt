@@ -80,3 +80,86 @@ E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\C
 E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\Curriculum Vitae.csproj.CopyComplete
 E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\Curriculum Vitae.dll
 E:\IngematicaAppTest\Proyecto WEB\CurriculumVitae\Curriculum Vitae\obj\Release\Curriculum Vitae.pdb
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\obj\Release\Curriculum Vitae.csprojAssemblyReference.cache
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\obj\Release\Curriculum Vitae.csproj.CoreCompileInputs.cache
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\obj\Release\Curriculum Vitae.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\obj\Release\Curriculum Vitae.pdb
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Curriculum Vitae.dll.config
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Curriculum Vitae.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Curriculum Vitae.pdb
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\csc.exe
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\csc.exe.config
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\csc.rsp
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\csi.exe
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\csi.exe.config
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\csi.rsp
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.AppContext.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Console.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.IO.Compression.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Security.Claims.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.ValueTuple.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\vbc.exe
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\vbc.exe.config
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\vbc.rsp
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Antlr3.Runtime.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Newtonsoft.Json.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Helpers.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Mvc.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Optimization.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Razor.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.WebPages.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.WebPages.Razor.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\WebGrease.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Helpers.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Mvc.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Optimization.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.Razor.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.WebPages.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\System.Web.WebPages.Razor.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Newtonsoft.Json.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Antlr3.Runtime.pdb
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.Helpers.resources.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.Mvc.resources.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.Optimization.resources.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.Razor.resources.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.WebPages.resources.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\obj\Release\Curriculum Vitae.csproj.CopyComplete
