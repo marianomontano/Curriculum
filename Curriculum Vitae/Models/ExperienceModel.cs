@@ -9,7 +9,7 @@ namespace Curriculum_Vitae.Models
     public class ExperienceModel
     {
         [Display(Name ="Empleador")]
-        public string Emplador { get; set; }
+        public string Empleador { get; set; }
         public string Puesto { get; set; }
 
         [Display(Name = "Fecha de Inicio")]

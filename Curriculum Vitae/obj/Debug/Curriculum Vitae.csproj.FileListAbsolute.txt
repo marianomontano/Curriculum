@@ -168,3 +168,177 @@ C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\M
 C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
 C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
 C:\Users\rianoAntonio.Montano\Documents\GitHub\Curriculum\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\obj\Debug\Curriculum Vitae.csproj.AssemblyReference.cache
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\obj\Debug\Curriculum Vitae.csproj.CoreCompileInputs.cache
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\obj\Debug\Curriculum Vitae.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\obj\Debug\Curriculum Vitae.pdb
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Curriculum Vitae.dll.config
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Curriculum Vitae.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Curriculum Vitae.pdb
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\csc.exe
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\csc.exe.config
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\csc.rsp
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\csi.exe
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\csi.exe.config
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\csi.rsp
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.AppContext.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Console.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.IO.Compression.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Security.Claims.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.ValueTuple.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\vbc.exe
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\vbc.exe.config
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\vbc.rsp
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Antlr3.Runtime.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Newtonsoft.Json.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Helpers.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Mvc.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Optimization.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Razor.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.WebPages.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.WebPages.Razor.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\WebGrease.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Helpers.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Mvc.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Optimization.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.Razor.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.WebPages.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\System.Web.WebPages.Razor.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Newtonsoft.Json.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Antlr3.Runtime.pdb
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\es\System.Web.Razor.resources.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mariano.montano\source\repos\CV\Curriculum Vitae\obj\Debug\Curriculum Vitae.csproj.CopyComplete
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Curriculum Vitae.dll.config
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Curriculum Vitae.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Curriculum Vitae.pdb
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\csc.exe
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\csc.exe.config
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\csc.rsp
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\csi.exe
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\csi.exe.config
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\csi.rsp
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.AppContext.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Console.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.IO.Compression.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Security.Claims.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.ValueTuple.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\vbc.exe
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\vbc.exe.config
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\vbc.rsp
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Antlr3.Runtime.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Newtonsoft.Json.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Helpers.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Mvc.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Optimization.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Razor.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.WebPages.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.WebPages.Razor.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\WebGrease.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Helpers.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Mvc.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Optimization.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.Razor.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.WebPages.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\System.Web.WebPages.Razor.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Newtonsoft.Json.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Antlr3.Runtime.pdb
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\es\System.Web.Razor.resources.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\obj\Debug\Curriculum Vitae.csproj.AssemblyReference.cache
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\obj\Debug\Curriculum Vitae.csproj.CoreCompileInputs.cache
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\obj\Debug\Curriculum Vitae.csproj.CopyComplete
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\obj\Debug\Curriculum Vitae.dll
+C:\Users\mariano.montano\source\repos\CVASPNET\Curriculum Vitae\obj\Debug\Curriculum Vitae.pdb

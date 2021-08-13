@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
@@ -29,14 +30,19 @@ namespace Curriculum_Vitae.Controllers
         }
 
         [HttpPost]
-        public ActionResult Contact(string from, string subject, string body)
+        public async Task<ActionResult> Contact(string from, string subject, string body)
         {
             if (ModelState.IsValid)
             {
-                EmailService.Instance.SendEmail(from, subject, body);
+                await EmailService.Instance.SendEmailAsync(from, subject, body);
                 return RedirectToAction("Index", "Home");
             }
             return View();
+        }
+
+        public ActionResult Whatsapp()
+		{
+            return Redirect("https://web.whatsapp.com/send?phone=5491162204305");
         }
     }
 }

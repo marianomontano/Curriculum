@@ -13,7 +13,7 @@ namespace Curriculum_Vitae.Services
             List<ExperienceModel> lista = new List<ExperienceModel>();
             lista.Add(new ExperienceModel
             {
-                Emplador = "Accusys Tecnology",
+                Empleador = "Accusys Tecnology",
                 Puesto = "Analista Programador .NET Jr",
                 FechaInicio = new DateTime(2021, 01, 25),
                 FechaFin = DateTime.Today,
@@ -28,7 +28,7 @@ namespace Curriculum_Vitae.Services
 
             lista.Add(new ExperienceModel
             {
-                Emplador = "GPS Mundo - Garmin Store",
+                Empleador = "GPS Mundo - Garmin Store",
                 Puesto = "Departamento Comercial",
                 FechaInicio = new DateTime(2017, 11, 01),
                 FechaFin = new DateTime(2021, 01, 24),
@@ -41,7 +41,7 @@ namespace Curriculum_Vitae.Services
             });
             lista.Add(new ExperienceModel
             {
-                Emplador = "Tati Golf - Adidas Golf",
+                Empleador = "Tati Golf - Adidas Golf",
                 Puesto = "Departamento Comercial + E-Commerce Leader",
                 FechaInicio = new DateTime(2013, 01, 01),
                 FechaFin = new DateTime(2017, 06, 30),

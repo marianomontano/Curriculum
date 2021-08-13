@@ -6,76 +6,31 @@
 
 @foreach (var item in Model)
 {
-    <div class="list-group">
-        <ul>
-            <li class="list-group-item">
-                <div class="h4">
-                    @Html.DisplayFor(model => item.Emplador)
-                </div>
-
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <span class="h3">
+                @Html.DisplayFor(model => item.Empleador)
+            </span>
+        </div>
+        <div class="panel-body">
+            <div class="h4">
                 @Html.DisplayNameFor(model => model.Puesto):
                 @Html.DisplayFor(model => item.Puesto)<br />
+            </div>
 
-                @Html.DisplayNameFor(model => model.FechaInicio):
-                @Html.DisplayFor(model => item.FechaInicio)<br />
+            @Html.DisplayNameFor(model => model.FechaInicio):
+            @Html.DisplayFor(model => item.FechaInicio)<br />
 
-                @Html.DisplayNameFor(model => model.FechaFin):
-                @Html.DisplayFor(model => item.FechaFin)<br />
+            @Html.DisplayNameFor(model => model.FechaFin):
+            @Html.DisplayFor(model => item.FechaFin)<br />
 
-                @Html.DisplayNameFor(model => model.Tareas):
-                @foreach (var tarea in item.Tareas)
-                {
-                    <ul>
-                        <li>@Html.DisplayFor(model => tarea)</li>
-                    </ul>
-                }
-            </li>
-        </ul>
+            @Html.DisplayNameFor(model => model.Tareas):
+            @foreach (var tarea in item.Tareas)
+            {
+                <ul>
+                    <li>@Html.DisplayFor(model => tarea)</li>
+                </ul>
+            }
+        </div>
     </div>
 }
-
-
-
-
-@*
-    <table class="table">
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Emplador)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Puesto)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaInicio)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaFin)
-            </th>
-            <th></th>
-        </tr>
-
-    @foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Emplador)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Puesto)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FechaInicio)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FechaFin)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
-        </tr>
-    }
-
-    </table>
-*@

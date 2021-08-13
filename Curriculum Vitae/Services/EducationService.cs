@@ -13,11 +13,35 @@ namespace Curriculum_Vitae.Services
             List<EducationModel> lista = new List<EducationModel>();
             lista.Add(new EducationModel
             {
+                Institucion = "Educación IT",
+                Descripcion = "Curso de desarrollo de Web APIs con ASP .NET CORE",
+                FechaInicio = new DateTime(2021, 07, 01),
+                FechaFin = new DateTime(2021, 07, 30),
+                Estado = "Finalizado"
+            });
+            lista.Add(new EducationModel
+            {
                 Institucion = "Universidad Abierta Interamericana",
                 Descripcion = "Analista Programador",
                 FechaInicio = new DateTime(2018, 03, 01),
                 FechaFin = new DateTime(2020, 07, 31),
                 Estado = "Finalizado (Pendiente Proyecto Final)"
+            });
+            lista.Add(new EducationModel
+            {
+                Institucion = "Udemy",
+                Descripcion = "Curso de desarrollo web ASP .NET MVC",
+                FechaInicio = new DateTime(2019, 02, 01),
+                FechaFin = new DateTime(2019, 03, 01),
+                Estado = "Finalizado"
+            });
+            lista.Add(new EducationModel
+            {
+                Institucion = "Udemy",
+                Descripcion = "Curso de manejo de bases de datos relacionales MS SQL Server",
+                FechaInicio = new DateTime(2019, 01, 01),
+                FechaFin = new DateTime(2019, 02, 01),
+                Estado = "Finalizado"
             });
             lista.Add(new EducationModel
             {
@@ -33,14 +57,6 @@ namespace Curriculum_Vitae.Services
                 Descripcion = "Microsoft Office Fundamentals: Word, Excel, Microsoft Windows",
                 FechaInicio = new DateTime(2005, 03, 01),
                 FechaFin = new DateTime(2008, 11, 30),
-                Estado = "Finalizado"
-            });
-            lista.Add(new EducationModel
-            {
-                Institucion = "Colegio Nuestra Señora del Regugio",
-                Descripcion = "Bachiller en Ciencias Sociales",
-                FechaInicio = new DateTime(2003, 03, 01),
-                FechaFin = new DateTime(2018, 11, 30),
                 Estado = "Finalizado"
             });
 

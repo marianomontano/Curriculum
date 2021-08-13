@@ -16,7 +16,7 @@ namespace Curriculum_Vitae.Services
                 Grupo = "Lenguajes de Programación",
                 Habilidades = new List<string>()
                 {
-                    "C#", "ASP .NET MVC", "SQL", "C Básico", "Java Básico", "HTML y CSS Básico", "JavaScript Intermedio"
+                    "C#", "ASP .NET MVC", "SQL", "Java Básico", "HTML", "JavaScript Intermedio"
                 }
             });
             lista.Add(new SkillsModel
@@ -29,10 +29,10 @@ namespace Curriculum_Vitae.Services
             });
             lista.Add(new SkillsModel
             {
-                Grupo = "IDE",
+                Grupo = "Herramientas de trabajo",
                 Habilidades = new List<string>()
                 {
-                    "Visual Studio", ".NET Framework", ".NET Core Básico"
+                    "Visual Studio", ".NET Framework", ".NET Core", "Blazor básico"
                 }
             });
             lista.Add(new SkillsModel
@@ -56,8 +56,8 @@ namespace Curriculum_Vitae.Services
                 Grupo = "Otros",
                 Habilidades = new List<string>()
                 {
-                    "Rápido aprendizaje", "Trabajo en equipo", "Capacidad autodidacta",
-                    "Predisposición al trabajo", "Puntualidad"
+                    "Patrones de diseño", "Principios SOLID", "Unit Testing y Mocking",
+                    "Rápido aprendizaje", "Trabajo en equipo", "Capacidad autodidacta"
                 }
             });
 

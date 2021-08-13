@@ -5,6 +5,8 @@ using System.Web;
 using System.Net.Mail;
 using System.Net;
 using System.Configuration;
+using System.Threading.Tasks;
+using System.Text;
 
 namespace Curriculum_Vitae.Services
 {
@@ -17,9 +19,9 @@ namespace Curriculum_Vitae.Services
 
         private EmailService()
         {
-            userName = ConfigurationManager.AppSettings["userName"];
-            mailTo = ConfigurationManager.AppSettings["mailTo"];
-            password = ConfigurationManager.AppSettings["password"];
+            userName = Encoding.UTF8.GetString(Convert.FromBase64String(ConfigurationManager.AppSettings["userName"]));
+            mailTo = Encoding.UTF8.GetString(Convert.FromBase64String(ConfigurationManager.AppSettings["mailTo"]));
+            password = Encoding.UTF8.GetString(Convert.FromBase64String(ConfigurationManager.AppSettings["password"]));
         }
 
         public static EmailService Instance
@@ -32,7 +34,7 @@ namespace Curriculum_Vitae.Services
             }
         }
 
-        public void SendEmail(string emailOrigen, string asunto, string mensaje)
+        public async Task SendEmailAsync(string emailOrigen, string asunto, string mensaje)
         {
 
             MailAddress mailFrom = new MailAddress(userName, emailOrigen);
@@ -50,10 +52,17 @@ namespace Curriculum_Vitae.Services
                 EnableSsl = true,
                 DeliveryMethod = SmtpDeliveryMethod.Network,
                 Credentials = new NetworkCredential(userName, password),
-                Timeout = 20000
+                Timeout = 10*1000
             };
 
-            smtp.Send(mail);
+			try
+			{
+                await Task.Run(() => smtp.Send(mail));
+			}
+			catch (Exception)
+			{
+                throw;
+			}
         }
     }
 }
